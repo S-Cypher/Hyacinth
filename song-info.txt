@@ -1,0 +1,257 @@
+
+Name: Angelus Ad Virginem
+Voicing: SSA
+Arranger: Williametta Spencer
+Year: ~1360
+Performers: Arizona State University Women's Chorus
+
+Name: Arise My Love
+Voicing: SA
+Composer: Joan Szymko
+Lyric Source: The Song of Solomon
+Year: 2004
+Performers: BRMHS Intermediate Choir
+
+Name: Bogoroditse Devo
+Voicing: SATB
+Composer: Sergei Rachmaninov
+Year:
+Performers: Mississippi College Singers
+
+
+Name: Call of the Flowers
+Subtext: Duet from Lakme
+Voicing: SA
+Composer: Leo Delibes
+Editor: Ronald A. Nelson
+Year: ~2002
+Performers: BRMHS Intermediate Choir
+
+
+Name: Carol of the Bells
+Voicing: SATB
+Composer: Mykola Leontovych
+Arranger: Riccardo Spina
+Lyricist: Peter J. Wilhousky
+Year: 
+Performers: 
+
+Name: Dirait-on
+Voicing: SATB
+Composer: Morten Johannes Lauridsen
+Lyricist/Poet: Rainer Maria Rilke
+Year: 1994
+Performers: Chamber Choir of Europe
+
+Name: Flower of Beauty
+Voicing: SATB
+Composer: John Clements
+Lyricist: Sydney Bell
+Year: 1960
+Performers: BRMHS Choral Union
+
+Name: God Rest You Merry Gentlemen
+Voicing: SATB
+Arranger: John Rutter
+Year: 1981
+Performers: The Cambridge Singers and Orchestra
+
+Name: Hamisha Asar
+Voicing: three part treble
+Composer & Lyricist: Flory Jagoda
+Arranger: Nick Page
+Year: 1993, 2000
+Performers: 
+
+Name: Hark, I Hear the Harps Eternal
+Voicing: SATB
+Arranger: Alice Parker
+Year: 1967
+Performers: BRMHS Choral Union
+
+Name: Indodana
+Voicing: SATB
+Arrangers: Michael Barret & Ralf Schmitt
+Year: 2014
+Performers:
+
+Name: I Will Be a Child of Peace
+Voicing: SATB
+Arranger: Elaine Hagenberg
+Editor: Dan Forrest
+Year: 2013
+Performers:
+
+Name: Jesus Walked This Lonesome Valley
+Voicing: Solo; Mezzo-soprano
+Arranger: Gordon Meyers
+Year: 1991
+Performer:
+
+Name: Joy to the World
+Voicing: SATB
+Composer: Lowell Mason
+Arranger: John Rutter
+Lyricist: Isaac Watts
+Year: 1981
+Performer:
+
+Name: Jubilate Deo
+Voicing: SATB
+Composer/Arranger: Peter Anglea
+Lyric Source: Psalm 100: 1, 2, 5
+Year: 2014
+Performers: BRMHS Choral Union
+
+Name: Lo, How a Rose
+Voicing: SSA
+Arranger: Michael Praetorius
+Lyricist: Unknown
+Year: 16th Century
+
+Name: Night of Silence
+Composer & Lyricist: Daniel Kantor 
+Voicing: Unison
+Year: 1984
+Performer: St. Olaf Choir
+
+Name: O Love
+Voicing: SATB
+Composer/Arranger: Elane Hagenberg
+Lyricist: George Matheson
+Year: 2016
+
+Name: O Praise the Lord with Heart and Voice
+Full Work: The Creation
+Voicing: SSA
+Composer: Franz Joseph Haydn
+Arranger: Jacob Naverud
+German Lyricist: Gottfried Van Swieten
+English Lyricist: Josiah Conder
+Year: 2014
+Performers: Allegro con Brio
+
+Name: O Vos Omnes
+Voicing: SSAATTBB
+Composer: Pablo Casals
+Year: 1965
+Performers: 
+
+Name: Petit Enfant
+Voicing: SA
+Composers: Linda Miller Shaw & Dana Thompson
+Lyricist: Linda Miller Shaw
+Year: 1997
+
+Name: Praise His Holy Name
+Voicing: SATB
+Composer: Keith Hampton
+Year: 1998
+
+Name: Praise Ye the Lord
+Voicing: SATB
+Composer: Camille Saint-Saens
+Arranger/Editor: Walter Ehret
+English Lyricist: Walter Ehret
+Year: 1954
+
+Name: Richte Mich, Gott
+Voicing: SSAATTBB
+Composer: Felix Mendelssohn Bartholdy
+Year: 1844
+
+Name: Silent Night
+Voicing: SATB
+Composer: Franz Gruber
+Arranger/Lyricist: Malcolm Sargent
+Year:
+
+Name: Sing Unto God
+Full Work: Judas Maccabeus
+Voicing: SATB
+Composer: G.F. Handel
+Year: 1746
+
+Name: Sisi ni moja
+Voicing: SATB (SAB)
+Composer/Lyricist: Jacob Naverud
+Year: 2013
+
+Name: Sixteen Tons
+Voicing: SATB
+Composer/Lyricist: Merle Travis
+Arranger: Kirby Shaw
+Year: 1947
+
+Name: Things That Never Die
+Voicing: SSA 
+Composer: Lee Dengler
+Lyricist: Charles Dickens
+
+Name: Tuba
+Voicing: SATB
+Arranger: Michael Barrett
+Year: 2018
+
+Name: Walk in Jerusalem
+Voicing: SATB
+Arranger: Rollo A. Dilworth
+Year: 2004
+
+Name: We Wish You a Merry Christmas
+Voicing: SATB
+Arranger: John Rutter
+Year: 1985
+
+Name: Shenandoah
+Voicing: SSAATTBB
+Arranger: Steven Sametz
+Year: 2003
+
+Name: Tundra
+Voicing: SSAA, Soprano Solo
+Composer: Ola Gjeilo
+Lyricist: Charles A. Silvestri
+Year: 2011
+
+Name: You Will Be Found
+Musical: Dear Evan Hansen
+Voicing: SATB
+Composers & Lyricists: Benj Pasek & Justin Paul
+Arranger: Mac Huff
+Year: 2017
+
+Name: Wanting Memories
+Voicing: SATB
+Composer & Lyricist: Ysaye M. Barnwell
+Year: 1980
+
+Name: Requiem Aeternam
+Full Work: Rutter Requiem
+Voicing: SATB
+Composer: John Rutter
+Year: 1986
+
+Name: Eatnemen Vuelie
+Voicing: SATB
+Composer: Frode Fjellheim
+Arranger: Emily Crocker
+Lyricists: Frode Fjellheim & Joseph August Seiss
+Year: 2002
+
+Name: Lift Thine Eyes
+Voicing: SSA
+Composer: Felix Mendelssohn Bartholdy
+Year: 1999
+
+Name: Why Not?
+Voicing: SA 
+Composer/Lyricist: Nathan Howe
+Year: 2015, 2017
+
+Name: Lunar Lullaby
+Voicing: SA
+Composer: Jacob Naverud
+Lyricist: Kathleen Nicely
+Year: 2015
+
